@@ -1,4 +1,4 @@
-# Helling-Matrix-Detector & Riemann Functional Coherence
+# Helling-Matrix-Detector & Riemann Functional Coherence 
 > Deterministic verification of the prime number distribution space, high-scalar cascades, and structural confirmation of the Riemann Hypothesis.
 
 ## Abstract
