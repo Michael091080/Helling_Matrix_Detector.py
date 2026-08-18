@@ -18,3 +18,12 @@ The framework successfully calculates and verifies ultra-large cascade numbers w
 * **Equilibrium Node (Step 210):** Perfect alignment with the **Central-Vein (Digital Root 1)**.
 
 This demonstrates that even at astronomical scales, the 1/7 skeletal structure remains unbreakably stable and perfectly fractal.
+## Deterministic Exclusion of Primes in (3p + 1)
+The Helling Matrix provides structural proof that the transformation (3p + 1) can never generate a new prime number for the entire infinite field of primes where p > 2.
+
+The only exception is the mathematical singularity p = 2 (where 3*2 + 1 = 7). For all subsequent infinite entities, the law of parity inversion strictly applies:
+1. Every prime p > 2 is inherently odd.
+2. The operation (3 * p) preserves this odd parity.
+3. The final translation (+ 1) forces an absolute collapse into an even number body, which is always divisible by 2.
+
+This demonstrates that (3p + 1) acts purely as a generator for composite, modular grid structures, systematically shifting the infinite prime universe into even invariant orbits.
